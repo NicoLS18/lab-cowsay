@@ -1,6 +1,6 @@
 # lab - pip install and PEP8
 
-![](https://github.com/NicoLS18lab-cowsay/workflows/flake8/badge.svg)&nbsp;
+![](https://github.com/NicoLS18/lab-cowsay/workflows/flake8/badge.svg)&nbsp;
 ![](https://github.com/NicoLS18/lab-cowsay/workflows/command_line/badge.svg)&nbsp;
 
 **About:**
