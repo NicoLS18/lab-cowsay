@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
 import argparse
 import textwrap
 
@@ -24,7 +24,7 @@ def cowsay(text, width=40):
 
     lines.append(" " + "-" * (max_len + 2))
 
-    # Add cow
+    # Add cow imgae
     cow = r"""        \   ^__^
          \  (oo)\_______
             (__)\       )\/\
